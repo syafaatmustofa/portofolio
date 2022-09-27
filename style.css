@@ -1,0 +1,73 @@
+.content {
+    height: 60vh;
+}
+.btn {
+    border-radius: 20px;
+    width: 100px;
+}
+
+.bg1 img{
+    width: 350px;
+    margin-left: 50px;
+}
+
+.card img {
+    width:  100px;
+}
+
+.download {
+    width: 150px;
+}
+
+.card {
+    width: 150px;
+}
+
+.button-card {
+    width:  150px;
+}
+
+.card1 {
+    margin-right: -30px;
+}
+
+.gambar2 img{
+    width: 300px;
+    margin-left: 300px;
+}
+
+.canvas {
+    height: 80vh;
+}
+
+.text_work {
+    width: 800px;
+    background-color: #F8E192 ;
+    height: 50vh;
+}
+
+.foto img{
+    width: 350px;
+}
+
+.gambarr {
+    margin-left: 200px;
+    background-image: url(img/circle.png);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* background-size: 300px; */
+}
+
+.icon {
+    position: relative;
+    padding-right: 50px;
+}
+
+.gambarr img{
+    width: 50px;
+    border-radius: 50%;
+    background-color: #f8e092a1;
+
+    
+}
